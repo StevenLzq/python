@@ -1,0 +1,1 @@
+pyinstaller -i fuwa.ico -F pythonmeiguihua.py
